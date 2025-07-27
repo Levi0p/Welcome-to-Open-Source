@@ -87,6 +87,16 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     </sub>
                 </a>
             </td>
+        <td align="center">
+                <a href="https://github.com/Levi0p">
+                    <img src="https://avatars.githubusercontent.com/u/177656268?v=4" width="100px;"
+                        alt="Levi0p" />
+                    <br />
+                    <sub>
+                        <b>Levi0p</b>
+                    </sub>
+                </a>
+            </td>
             <td align="center">
                 <a href="https://github.com/patelscripts">
                     <img src="https://avatars.githubusercontent.com/u/178066264?v=4" width="100px;"
